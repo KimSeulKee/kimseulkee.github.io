@@ -10330,12 +10330,23 @@ header.masthead h1 {
 
 /* About */
 div[name=container-about] {
-  max-width: 1500px;
+  max-width: 1400px;
 }
 
 div[name=text_box-about] {
   flex: 0 0 100%;
   max-width: 100%;
+}
+
+a[name=a-resume] {
+  margin-top: 3%;
+  width: 25%;
+  font-size: 15px;
+}
+
+a[name=a-resume]>img {
+  width: 28px;
+  margin-left: 5%;
 }
 
 
