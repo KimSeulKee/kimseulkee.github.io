@@ -30,7 +30,87 @@ video {
   width: 70%;
 }
 
+.page-section {
+  padding-bottom: 0;
+}
+
 .title-img {
   width: 5%;
   margin-right: 2%;
+}
+
+/* Functions */
+
+div[name=function-list] {
+  padding-left: 35%;
+  margin-top: 3%;
+}
+
+.functions {
+  margin: 2% 0;
+}
+
+.functions>img {
+  width: 25px;
+  margin-right: 3%;
+}
+
+.functions>label {
+  font-size: large;
+}
+
+/* Skills */
+
+div[name=skill-list] {
+  margin-top: 5%;
+  margin-left: 15%;
+}
+
+div[name=skill-list] h3 {
+  margin-bottom: 7%;
+}
+
+.div-skills {
+  display: block;
+  font-size: large;
+}
+
+.div-skills>img {
+  width: 20px;
+  margin-right: 5%;
+}
+
+
+/* Rules */
+
+div[name=list-of-rules] {
+  padding-top: 2%;
+  padding-left: 15%;
+}
+
+.rules {
+  font-size: large;
+}
+
+.rules>img {
+  width: 25px;
+  margin-right: 3%;
+}
+
+div[name=rules-one]>img {
+  padding-bottom: 25px;
+}
+
+
+/* Speech */
+
+div[name=section-realization] {
+  padding-bottom: 15%;
+}
+
+div[name=realization] {
+  padding-top: 2%;
+  padding-left: 12%;
+  padding-right: 5%;
+  font-size: large;
 }
