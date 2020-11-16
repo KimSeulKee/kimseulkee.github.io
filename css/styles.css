@@ -10468,3 +10468,13 @@ div[name=info-skills]>span {
 #project-geha {
   margin-bottom: 15%;
 }
+
+/* Contact */
+
+h2[name=get-in-touch] {
+  margin-bottom: 5%;
+}
+
+.i-contact, .a-contact {
+  color: lightgray;
+}
